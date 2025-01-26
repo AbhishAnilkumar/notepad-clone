@@ -12,16 +12,17 @@ A simple Notepad application built using Java Swing.
 ## How to Run
 1. Clone the repository:
    ```bash
-  https://github.com/AbhishAnilkumar/notepad-clone.git
+   git clone https://github.com/AbhishAnilkumar/notepad-clone.git
+
 2. Navigate to the project directory:
-bash
+   bash
 
-cd notepad-clone
+   cd notepad-clone
 3. Build the project with Maven:
-bash
+   bash
 
-mvn clean package
+   mvn clean package
 4. Run the application:
-bash
+   bash
 
-java -jar target/notepad-1.0-SNAPSHOT.jar
+   java -jar target/notepad-1.0-SNAPSHOT.jar
